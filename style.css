@@ -1,0 +1,25 @@
+
+
+.avatar {
+    width: 200px;
+}
+
+
+
+.col-10,
+.col  {
+    padding: 1rem;
+    border: 1px solid black;
+
+}  
+
+
+
+.row {
+    border: 1px solid black;
+    
+}
+
+.my-class-nav {
+    justify-content: space-between;
+}
